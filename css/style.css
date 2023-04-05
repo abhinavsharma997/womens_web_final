@@ -440,7 +440,7 @@ footer p{
     }
 
     .current2{
-        background-color: red;
+        background-color: rgb(192, 0, 0);
         display: inline-block;
         font-family: 'Poppins', sans-serif;
         padding: 0px;
@@ -637,7 +637,7 @@ footer p{
     }
 
     .current2{
-        background-color: red;
+        background-color: rgb(192, 0, 0);
         display: inline-block;
         font-family: 'Poppins', sans-serif;
         padding: 0px;
