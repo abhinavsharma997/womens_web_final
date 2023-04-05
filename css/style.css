@@ -459,6 +459,10 @@ footer p{
         font-family: 'Poppins', sans-serif;
         padding: 0px;
     }
+	
+    #disc{
+	 color: #ffffff;	 
+    }
 
     #lit{
         display: grid;
